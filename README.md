@@ -19,7 +19,9 @@ DB_PORT=3306
 DB_DATABASE=your_database_name
 DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
-4. etner command php artisan key:generate
+    
+    
+4.enter command php artisan key:generate
 5.Run database migrations and seed the database with sample data:
 
 php artisan migrate
