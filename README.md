@@ -27,7 +27,8 @@ php artisan db:seed
 
 php artisan serve
 
-
+6.there is a sample api /user-list for checking the task (get method).
+7.use postman or any other client for checking the same
 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
